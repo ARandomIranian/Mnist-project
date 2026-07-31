@@ -70,3 +70,6 @@ python app.py
 ## 📂 Dataset
 
 The model was trained using the **MNIST Handwritten Digits** dataset, a widely used benchmark dataset containing 70,000 grayscale images of handwritten digits.
+
+## Example of output!
+<img width="1920" height="1080" alt="outputofmnsit" src="https://github.com/user-attachments/assets/ba658af1-d89c-424f-96a0-ac0f332acd82" />
